@@ -16,7 +16,7 @@
 <a href="https://www.facebook.com/niten.kumawat.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="niten kumawat" height="30" width="40" /></a>
 <a href="https://instagram.com/nitenkumawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nitenkumawat" height="30" width="40" /></a>
 <a href="https://youtube.com/@nitenkumawat6366" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="niten kumawat" height="30" width="40" /></a>
-<a href="https://x.com/Nitenkumawat2" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fx-logo&psig=AOvVaw24sOY-O2V_5arErHFj_Fkq&ust=1730265923001000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCl-YXtsokDFQAAAAAdAAAAABAE" alt="nitenkumawat2" height="30" width="40" /></a>
+<a href="https://x.com/Nitenkumawat2" target="blank"><img align="center" src="https://freebiehive.com/wp-content/uploads/2023/08/X-Logo-758x473.jpg" alt="nitenkumawat2" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
