@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niten Kumawat</h1>
-<h3 align="center">A passionate software engineer of india.</h3>
+<h3 align="center">A passionate Full Stack Developer of india.</h3>
 
 <img align = "right" alt="coding" width ="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
@@ -11,11 +11,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nitenkumawat2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nitenkumawat2" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/niten kumawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niten kumawat" height="30" width="40" /></a>
-<a href="https://fb.com/niten kumawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="niten kumawat" height="30" width="40" /></a>
+
+<a href="www.linkedin.com/in/nitenkumawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitenkumawat" height="30" width="40" /></a>
+<a href="https://www.facebook.com/niten.kumawat.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="niten kumawat" height="30" width="40" /></a>
 <a href="https://instagram.com/nitenkumawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nitenkumawat" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/niten kumawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="niten kumawat" height="30" width="40" /></a>
+<a href="https://youtube.com/@nitenkumawat6366" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="niten kumawat" height="30" width="40" /></a>
+<a href="https://x.com/Nitenkumawat2" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fx-logo&psig=AOvVaw24sOY-O2V_5arErHFj_Fkq&ust=1730265923001000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCl-YXtsokDFQAAAAAdAAAAABAE" alt="nitenkumawat2" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
