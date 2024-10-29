@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Niten Kumawat</h1>
 <h3 align="center">A passionate Full Stack Developer of india.</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/76674591/193411913-1e70d4db-3298-45cd-b21b-4cd357f78287.gif
-    ">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/76674591/193411913-1e70d4db-3298-45cd-b21b-4cd357f78287.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joker6375&label=Profile%20views&color=0e75b6&style=flat"
         alt="joker6375" /> </p>
