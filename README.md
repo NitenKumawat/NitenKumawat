@@ -1,4 +1,5 @@
-# 💫 About Me:
+# Hi, I am Niten Kumawat
+# 💫 About Me: Aspiring Full Stack Developer
 📫 How to reach me nitenkumawat@gmail.com<br><br>⚡ Fun fact I am funny✌🏻
 
 
