@@ -10,31 +10,11 @@
 
 - ⚡ Fun fact **I am funny✌🏻**
 
-<h3 align="left">Connect with me:</h3>
-<p background-color="white" align="left">
 
- <a href="www.linkedin.com/in/nitenkumawat" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="nitenkumawat" height="30" width="40" /></a>
-    <a href="https://www.facebook.com/niten.kumawat.3" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-            alt="niten kumawat" height="30" width="40" /></a>
-    <a href="https://instagram.com/nitenkumawat" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="nitenkumawat" height="30" width="40" /></a>
-    <a href="https://youtube.com/@nitenkumawat6366" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-            alt="niten kumawat" height="30" width="40" /></a>
-    <a href="https://x.com/Nitenkumawat2" target="blank"><img align="center"
-            src="https://freebiehive.com/wp-content/uploads/2023/08/X-Logo-758x473.jpg" alt="nitenkumawat2" height="30"
-            width="40" /></a>
-</p>
+ 
 
 
 
-# Hi, I am Niten Kumawat
-# 💫 About Me: Aspiring Full Stack Developer
-📫 How to reach me nitenkumawat@gmail.com<br><br>⚡ Fun fact I am funny✌🏻
 
 
 ## 🌐 Socials:
